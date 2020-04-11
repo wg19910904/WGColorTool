@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WGColorTool (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WGColorTool (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WGColorTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WGColorTool: 5deb273802fdb2ca69ad2abb0d72cb74e889aa5f
+
+PODFILE CHECKSUM: ce6d459a9445ad3c058918a8443f3f6c20cd7096
+
+COCOAPODS: 1.9.1

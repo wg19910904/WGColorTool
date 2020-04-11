@@ -1,0 +1,22 @@
+{
+  "name": "WGColorTool",
+  "version": "0.1.0",
+  "summary": "A short description of WGColorTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/805182850/WGColorTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "805182850": "1911476762@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/805182850/WGColorTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WGColorTool/Classes/**/*"
+}
